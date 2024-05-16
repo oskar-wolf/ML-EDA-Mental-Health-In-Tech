@@ -1,0 +1,210 @@
+{
+    "provides_mental_health_benefits": {
+        "I don't know": 0,
+        "No": 1,
+        "Not eligible for coverage / N/A": 2,
+        "Self-Employed": 3,
+        "Yes": 4
+    },
+    "has_discussed_mental_health": {
+        "I don't know": 0,
+        "No": 1,
+        "Self-Employed": 2,
+        "Yes": 3
+    },
+    "offers_mental_health_resources": {
+        "I don't know": 0,
+        "No": 1,
+        "Self-Employed": 2,
+        "Yes": 3
+    },
+    "ease_of_leave_for_mental_health": {
+        "I don't know": 0,
+        "Neither easy nor difficult": 1,
+        "Self-Employed": 2,
+        "Somewhat difficult": 3,
+        "Somewhat easy": 4,
+        "Very difficult": 5,
+        "Very easy": 6
+    },
+    "is_anonymity_protected": {
+        "I don't know": 0,
+        "No": 1,
+        "Self-Employed": 2,
+        "Yes": 3
+    },
+    "mental_health_discussion_consequences": {
+        "Maybe": 0,
+        "No": 1,
+        "Self-Employed": 2,
+        "Yes": 3
+    },
+    "physical_health_discussion_consequences": {
+        "Maybe": 0,
+        "No": 1,
+        "Self-Employed": 2,
+        "Yes": 3
+    },
+    "comfort_discussing_mental_health_with_coworkers": {
+        "Maybe": 0,
+        "No": 1,
+        "Self-Employed": 2,
+        "Yes": 3
+    },
+    "comfort_discussing_mental_health_with_supervisor": {
+        "Maybe": 0,
+        "No": 1,
+        "Self-Employed": 2,
+        "Yes": 3
+    },
+    "employer_values_mental_equal_physical": {
+        "I don't know": 0,
+        "No": 1,
+        "Self-Employed": 2,
+        "Yes": 3
+    },
+    "observed_neg_consequences_for_coworkers": {
+        "No": 0,
+        "Self-Employed": 1,
+        "Yes": 2
+    },
+    "previous_employers_mental_health_benefits": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4
+    },
+    "aware_of_mental_health_care_options_previous": {
+        "I was aware of some": 0,
+        "N/A (no previous employer)": 1,
+        "N/A (not currently aware)": 2,
+        "No, I only became aware later": 3,
+        "Yes, I was aware of all of them": 4
+    },
+    "previous_employers_discussed_mental_health": {
+        "I don't know": 0,
+        "N/A (no previous employer)": 1,
+        "None did": 2,
+        "Some did": 3,
+        "Yes, they all did": 4
+    },
+    "previous_employers_offered_mental_health_resources": {
+        "N/A (no previous employer)": 0,
+        "None did": 1,
+        "Some did": 2,
+        "Yes, they all did": 3
+    },
+    "anonymity_protected_previous_employers": {
+        "I don't know": 0,
+        "N/A (no previous employer)": 1,
+        "No": 2,
+        "Sometimes": 3,
+        "Yes, always": 4
+    },
+    "mental_health_discussion_consequences_previous": {
+        "I don't know": 0,
+        "N/A (no previous employer)": 1,
+        "None of them": 2,
+        "Some of them": 3,
+        "Yes, all of them": 4
+    },
+    "physical_health_discussion_consequences_previous": {
+        "N/A (no previous employer)": 0,
+        "None of them": 1,
+        "Some of them": 2,
+        "Yes, all of them": 3
+    },
+    "willing_discuss_mental_health_previous_coworkers": {
+        "N/A (no previous employer)": 0,
+        "No, at none of my previous employers": 1,
+        "Some of my previous employers": 2,
+        "Yes, at all of my previous employers": 3
+    },
+    "willing_discuss_mental_health_previous_supervisor": {
+        "I don't know": 0,
+        "N/A (no previous employer)": 1,
+        "No, at none of my previous employers": 2,
+        "Some of my previous employers": 3,
+        "Yes, at all of my previous employers": 4
+    },
+    "previous_employers_valued_mental_equal_physical": {
+        "I don't know": 0,
+        "N/A (no previous employer)": 1,
+        "None did": 2,
+        "Some did": 3,
+        "Yes, they all did": 4
+    },
+    "observed_neg_consequences_previous_workplaces": {
+        "N/A (no previous employer)": 0,
+        "None of them": 1,
+        "Some of them": 2,
+        "Yes, all of them": 3
+    },
+    "willing_discuss_physical_health_in_interview": {
+        "Maybe": 0,
+        "No": 1,
+        "Yes": 2
+    },
+    "willing_discuss_mental_health_in_interview": {
+        "Maybe": 0,
+        "No": 1,
+        "Yes": 2
+    },
+    "identified_mental_health_impact_career": {
+        "Maybe": 0,
+        "No, I don't think it would": 1,
+        "No, it has not": 2,
+        "Yes, I think it would": 3,
+        "Yes, it has": 4
+    },
+    "team_view_negatively_mental_health": {
+        "Maybe": 0,
+        "No, I don't think they would": 1,
+        "No, they do not": 2,
+        "Yes, I think they would": 3,
+        "Yes, they do": 4
+    },
+    "willing_share_mental_health_with_friends_family": {
+        "Neutral": 0,
+        "Not applicable to me (I do not have a mental illness)": 1,
+        "Not open at all": 2,
+        "Somewhat not open": 3,
+        "Somewhat open": 4,
+        "Very open": 5
+    },
+    "family_history_mental_illness": {
+        "I don't know": 0,
+        "No": 1,
+        "Yes": 2
+    },
+    "currently_has_mental_health_disorder": {
+        "Maybe": 0,
+        "No": 1,
+        "Yes": 2
+    },
+    "interference_with_work_when_treated": {
+        "Never": 0,
+        "Not applicable to me": 1,
+        "Often": 2,
+        "Rarely": 3,
+        "Sometimes": 4
+    },
+    "interference_with_work_when_not_treated": {
+        "Never": 0,
+        "Not applicable to me": 1,
+        "Often": 2,
+        "Rarely": 3,
+        "Sometimes": 4
+    },
+    "had_mental_health_disorder_past": {
+        "Maybe": 0,
+        "No": 1,
+        "Yes": 2
+    },
+    "works_remotely": {
+        "Always": 0,
+        "Never": 1,
+        "Sometimes": 2
+    }
+}
